@@ -22,6 +22,7 @@ This project is divided into four main parts, simulating a data science internsh
     ```bash
     git clone [https://github.com/your-username/CodeBook-Social-Network-Analysis.git](https://github.com/your-username/CodeBook-Social-Network-Analysis.git)
     ```
+    (Replace `your-username` with your actual GitHub details.)
 2.  **Navigate to the project directory:**
     ```bash
     cd CodeBook-Social-Network-Analysis
